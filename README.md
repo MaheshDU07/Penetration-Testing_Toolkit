@@ -1,15 +1,15 @@
-# **🔥 Penetration Testing Toolkit 🔥**
-**COMPANY: CODETECH IT SOLUTIONS**
+# ** Penetration Testing Toolkit **
+**COMPANY: CODTECH IT SOLUTIONS**
 
-**NAME: GYANMOTAY VIKAS**
+**NAME: Mahesh D U**
 
-**INTERN ID: CT12RGV**
+**INTERN ID: CTO4DG1835**
 
 **DOMAIN: CYBER SECURITY & ETHICAL HACKING**
 
-**DURATION: 8 WEEKS**
+**DURATION: 4 WEEKS**
 
-**MENTOR: NELLA SANTOSH**
+**MENTOR: NEELA SANTOSH**
 
 # **🚀 Overview**
 ### **Welcome to the Python-based modular penetration testing toolkit—your go-to solution for ethical hacking and security testing. Designed for professionals and cybersecurity enthusiasts, this toolkit provides a robust set of modules for network scanning, brute-force attacks, and vulnerability assessment.**
@@ -68,9 +68,6 @@ Easily run penetration tests using command-line arguments:
  
  ├── brute_forcer.py
 
- ├── vulnerability_scanner.py
- 
- ├── utils.py
 
 📜 main.py
 
@@ -81,7 +78,6 @@ Easily run penetration tests using command-line arguments:
 
  ├── test_port_scanner.py
  
- ├── test_utils.py
 
 # ✅ Running Tests
 
@@ -93,15 +89,11 @@ Easily run penetration tests using command-line arguments:
 
 **We welcome contributions! Fork the repo, create a feature branch, and submit a pull request. Report bugs or suggest features via GitHub Issues.**
 
-# ⚠️ Disclaimer
+# Disclaimer
 
-**🚨 This toolkit is for educational and ethical hacking purposes only. Unauthorized or malicious use is strictly prohibited and may lead to legal consequences.**
+** This toolkit is for educational and ethical hacking purposes only. Unauthorized or malicious use is strictly prohibited and may lead to legal consequences.**
 
-# **📜 License**
-
-**This project is open-source and licensed under the MIT License. Feel free to use and modify it for ethical hacking and research purposes.**
-
-## 🔥 Stay ethical, hack responsibly, and secure the digital world! 🔥
+##  Stay ethical, hack responsibly, and secure the digital world! 
 
 # **OUTPUT:**
 ## **1. Port Scanner**
@@ -221,5 +213,4 @@ Trying password: password123
 Trying password: admin123
 Login successful: ('admin', 'admin123')
 
-> exit
-Goodbye!
+
